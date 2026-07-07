@@ -1,9 +1,5 @@
 # Shamil S
 
-> **Premium GitHub Profile README**
-
-> **Note:** The README requested is larger than can fit in a ChatGPT response. This generated file provides a production-ready starting point with all required sections for customization.
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,2575fc&height=220&section=header&text=Shamil%20S&fontColor=ffffff&fontSize=45"/>
 </p>
