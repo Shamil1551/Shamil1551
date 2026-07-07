@@ -38,7 +38,7 @@ Final-year Computer Science Engineering student at SRM Institute of Science and 
 
 ## Backend & Databases
 
-![Backend](https://skillicons.dev/icons?i=flask,firebase,mysql,git)
+![Backend](https://skillicons.dev/icons?i=flask,firebase,mysql,git,PowerBI,github)
 
 ---
 
@@ -94,19 +94,6 @@ Voice assistant powered by AI.
 - NVIDIA Jetson Nano
 - IIT Madras Cyber Security
 - Coursera Databases
-
----
-
-# GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shamil1551&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamil1551&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Shamil1551&theme=tokyonight"/>
-</p>
 
 ---
 
