@@ -23,7 +23,7 @@ Final-year Computer Science Engineering student at SRM Institute of Science and 
 - AI/ML Engineering
 - Full Stack Development
 - Backend Engineering
-
+- Data Analyst
 ---
 
 # Tech Stack
